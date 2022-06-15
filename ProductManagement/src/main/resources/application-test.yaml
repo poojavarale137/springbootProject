@@ -1,0 +1,12 @@
+server:
+  port: 9093
+ 
+spring:
+  application:
+    name: Product Microservices in Test Environment
+    
+product:
+  currencies:
+  - INR
+  - USD     
+ 
